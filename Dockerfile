@@ -1,5 +1,5 @@
 FROM  python:3.7-alpine
-MAINTAINER cloudyrathor.com
+MAINTAINER www.cloudyrathor.com
 
 ENV PYTHONUNBUFFERED 1
 copy ./requirements.txt /requirements.txt
